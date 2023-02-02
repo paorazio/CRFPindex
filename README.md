@@ -1,6 +1,7 @@
 # CRFPindex
 
 <b>DESCRIPTION</b>
+
 Data on the climate-related financial policy index (CRFPI) - comprising the global climate-related financial policies adopted globally and the bindingness of the policy - are provided in this paper for 74 countries from 2000 to 2020. 
 The data include the index values from four statistical models used to calculate the composite index as described in 
 
